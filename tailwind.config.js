@@ -45,6 +45,10 @@ export default {
         'xl': '0.75rem',
         '2xl': '1rem'
       }
+},
+      scale: {
+        '102': '1.02'
+      }
     }
   },
   plugins: [],
